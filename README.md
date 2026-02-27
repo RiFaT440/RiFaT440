@@ -13,35 +13,35 @@
 
 ---
 
-## 🚀 My Expertise
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"> My Expertise
 
-### 🌐 Web Development
+### <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="22"> Web Development
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### 🧬 Programming & Scientific Computing
+### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="22"> Programming & Scientific Computing
 <p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/MATLAB-ED6B06?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
-  <img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-ED6B06?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white"/>
 </p>
 
-### 🔬 Simulation & Analysis Tools
+### <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="22"> Simulation & Analysis Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Wolfram_Mathematica-DD1100?style=for-the-badge&logo=wolfram-mathematica&logoColor=white" alt="Mathematica"/>
-  <img src="https://img.shields.io/badge/COMSOL_Multiphysics-000000?style=for-the-badge&logo=comsol&logoColor=white" alt="COMSOL"/>
+  <img src="https://img.shields.io/badge/Wolfram_Mathematica-DD1100?style=for-the-badge&logo=wolfram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/COMSOL_Multiphysics-000000?style=for-the-badge&logo=comsol&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Performance
+## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="28"> GitHub Performance
 
 <div align="center">
   <picture>
@@ -53,13 +53,14 @@
 
 ---
 
-## 🛠️ Current Focus
-- 🔭 **Working on:** Scalable web applications and data visualization tools.
-- 🌱 **Learning:** Advanced C++ and COMSOL simulation workflows.
+## <img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="28"> Current Focus
+
+- 🔭 Working on: Scalable web applications and data visualization tools.
+- 🌱 Learning: Advanced C++ and COMSOL simulation workflows.
 
 ---
 
-## 🌐 Let's Connect
+## <img src="https://media.giphy.com/media/icoqFzvV3p4vQ1rK3a/giphy.gif" width="28"> Let's Connect
 
 <p align="center">
   <a href="mailto:tanvirh539@gmail.com">
@@ -69,6 +70,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+---
 
 <p align="center">
   ⭐ <i>Always learning & DO nothing.</i>
