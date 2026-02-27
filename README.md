@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Rifat</h1>
-<h3 align="center">Full-Stack Developer | Scientific Computing | Problem Solver</h3>
+<h3 align="center">------------</h3>
 
 <p align="center">
   Passionate about building clean, practical web applications and solving complex problems through code.<br>
