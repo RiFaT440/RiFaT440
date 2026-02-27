@@ -13,9 +13,9 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"> My Expertise
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> My Expertise
 
-### <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="22"> Web Development
+### <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="25"> Web Development
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
