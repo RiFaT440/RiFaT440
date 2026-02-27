@@ -49,8 +49,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=RiFat440&theme=flat&hide_border=false&border_radius=5">
     <img src="https://streak-stats.demolab.com?user=RiFat440&theme=dark&hide_border=false&border_radius=5" height="220" />
   </picture>
-</div>
-
+  
 ---
 
 ## <img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="28"> Current Focus
