@@ -2,7 +2,7 @@
 <h3 align="center">------------</h3>
 
 <p align="center">
-  Passionate about building clean, practical web applications and solving complex problems through code.<br>
+  Passionately building clean, practical web applications and solving complex problems through code.<br>
   I bridge the gap between <b>software engineering</b> and <b>scientific simulation</b>.
 </p>
 
@@ -40,17 +40,22 @@
 </p>
 
 ---
+
 ## 📊 GitHub Performance
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=RiFat440&locale=en&mode=daily&theme=random&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=RiFat440&theme=dark&hide_border=false&border_radius=5">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=RiFat440&theme=flat&hide_border=false&border_radius=5">
+    <img src="https://streak-stats.demolab.com?user=RiFat440&theme=dark&hide_border=false&border_radius=5" height="220" />
+  </picture>
 </div>
 
 ---
 
 ## 🛠️ Current Focus
 - 🔭 **Working on:** Scalable web applications and data visualization tools.
-- 🌱 **Learning:**C++, Python, or how to set up simulations in COMSOL.
+- 🌱 **Learning:** Advanced C++ and COMSOL simulation workflows.
 
 ---
 
