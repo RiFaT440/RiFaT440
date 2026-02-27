@@ -53,22 +53,20 @@
   </picture>
   
 ---
-<p align="left">
-  <h2>
+
+  <h2 align="left">
     <img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="28"> Current Focus
   </h2>
 
-  <ul>
-    <li>🔭 Working on scalable web applications and data visualization tools.</li>
-    <li>🌱 Learning advanced C++ and COMSOL simulation workflows.</li>
-  </ul>
+<p align="left">
+  🔭 Working on scalable web applications and data visualization tools.<br>
+  🌱 Learning advanced C++ and COMSOL simulation workflows.
 </p>
 
-<p align="left">
-  <h2>
-    <img src="https://media.giphy.com/media/icoqFzvV3p4vQ1rK3a/giphy.gif" width="28"> Let's Connect
-  </h2>
-</p>
+   
+<h2 align="left">
+   <img src="https://media.giphy.com/media/icoqFzvV3p4vQ1rK3a/giphy.gif" width="28"> Let's Connect
+</h2>
 
 <p align="left">
   <a href="mailto:tanvirh539@gmail.com">
@@ -81,6 +79,6 @@
 
 ---
 
-<p align="center">
+<p align="left">
   ⭐ <i>Always learning & DO nothing.</i>
 </p>
