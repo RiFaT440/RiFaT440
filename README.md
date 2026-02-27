@@ -53,24 +53,29 @@
   </picture>
   
 ---
+<p align="left">
+  <h2>
+    <img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="28"> Current Focus
+  </h2>
 
-## <img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="28"> Current Focus
+  <ul>
+    <li>🔭 Working on scalable web applications and data visualization tools.</li>
+    <li>🌱 Learning advanced C++ and COMSOL simulation workflows.</li>
+  </ul>
+</p>
 
-- 🔭 Working on: Scalable web applications and data visualization tools.
-- 🌱 Learning: Advanced C++ and COMSOL simulation workflows.
+<p align="left">
+  <h2>
+    <img src="https://media.giphy.com/media/icoqFzvV3p4vQ1rK3a/giphy.gif" width="28"> Let's Connect
+  </h2>
+</p>
 
----
-
-
-## <img src="https://media.giphy.com/media/icoqFzvV3p4vQ1rK3a/giphy.gif" width="28"> Let's Connect
-
-
-<p align="center">
+<p align="left">
   <a href="mailto:tanvirh539@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/asmtanvirhossain/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
